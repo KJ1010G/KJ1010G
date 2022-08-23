@@ -1,11 +1,11 @@
 <h1>My Personal Projects</h1>
 <h2>Tic Tac Toe Website</h2>
-![tictactoe](https://user-images.githubusercontent.com/38991076/186277770-d04766d5-9cbd-4a04-a326-a47149472af1.gif)
+<img src="![tictactoe](https://user-images.githubusercontent.com/38991076/186277770-d04766d5-9cbd-4a04-a326-a47149472af1.gif)">
 <a href="https://tictactoe.kjworks.online/">Link</a>
 <p>A site where you just have to create a challenge link, and send it to who you want to play with.</p>
 <p>Coded using MERN stack</p>
 <h2>Chess Website</h2>
-![kjchess](https://user-images.githubusercontent.com/38991076/186280730-b3c6aa61-5e47-4434-a894-03cb9cf6e2dc.gif)
+<img src"![kjchess](https://user-images.githubusercontent.com/38991076/186280730-b3c6aa61-5e47-4434-a894-03cb9cf6e2dc.gif)">
 <a href="https://kjchess.xyz/">Link</a>
 <p>A site where you create a player account. Then you can...</p>
 <ul>
