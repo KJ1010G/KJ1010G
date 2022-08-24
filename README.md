@@ -2,7 +2,7 @@
 
 <h2>Tic Tac Toe Website | <a href="https://tictactoe.kjworks.online/" target="_blank" rel="noopener noreferrer">Visit</a></h2>
 
-<img src="https://user-images.githubusercontent.com/38991076/186283978-ace7db9a-6cf4-47e9-b791-c5bf64db9db7.gif">
+<img src="https://user-images.githubusercontent.com/38991076/186527443-0638d6a7-52d2-4bb8-8c6a-7a29c8332cb4.gif">
 
 <p>A realtime multiplayer tic tac toe server</p>
 
