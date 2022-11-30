@@ -1,5 +1,7 @@
 <h1>My Personal Projects</h1>
 
+<p>The repositories for these projects are private, as I don't want them to be copied or forked. If you are an employer and want to have a look at code, contact me.</p>
+
 <h2>Tic Tac Toe Website | <a href="https://tictactoe.kjworks.online/" target="_blank" rel="noopener noreferrer">Visit</a></h2>
 
 <img src="https://user-images.githubusercontent.com/38991076/186527443-0638d6a7-52d2-4bb8-8c6a-7a29c8332cb4.gif">
